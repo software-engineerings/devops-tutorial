@@ -1,0 +1,61 @@
+#target {
+    height: auto;
+    width: 90%;
+    padding: 20px;
+    margin: 10px auto;
+    padding-left: 200px;
+    position: relative;
+}
+.modal {
+    position: absolute;
+}
+.modal-lab {
+    margin: 30px;
+	margin-top: 30px;
+	margin-left: 150px;
+}
+.modal-quiz {
+    margin: 30px;
+    margin-top: 30px;
+	margin-left: 500px;
+}
+.modal-slide {
+    margin: 30px;
+    margin-top: 30px;
+	margin-left: 750px;
+	
+}
+.modal-traning {
+    margin: 30px;
+    margin-top: 160px;
+	margin-left: 150px;
+}
+.modal-web-tutorial {
+    margin: 30px;
+    margin-top: 160px;
+	margin-left: 500px;
+}
+.modal-pdf {
+    margin: 30px;
+    margin-top: 160px;
+	margin-left: 750px;
+}
+.modal-ppt {
+    margin: 30px;
+    margin-top: 300px;
+	margin-left: 150px;
+}
+.modal-video {
+    margin: 30px;
+    margin-top: 300px;
+	margin-left: 500px;
+}
+.modal-web {
+    margin: 30px;
+    margin-top: 300px;
+	margin-left: 750px;
+}
+.btn-danger {
+    width: 100%;
+    font-size: 12px;
+}
